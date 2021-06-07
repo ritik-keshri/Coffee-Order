@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">कॉफी ऑर्डर</string>
+    <string name="Name">नाम</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="Whipped_Cream">फेटी हुई मलाई</string>
+    <string name="Chocolate">चॉकलेट</string>
+    <string name="Quantity">मात्रा</string>
+    <string name="ORDER">ऑर्डर करो</string>
+
+    <string name="order_summary_name">नाम : <xliff:g id="name">%s</xliff:g></string>
+    <string name="add_Whipped_Cream">फेटी हुई मलाई? <xliff:g id="addWhippedCream">%b</xliff:g></string>
+    <string name="add_Chocolate">चॉकलेट? <xliff:g id="addChocolate">%b</xliff:g></string>
+    <string name="order_summary_quantity">मात्रा : <xliff:g id="quantity">%d</xliff:g></string>
+    <string name="total">संपूर्ण : Rs. <xliff:g id="price"> </xliff:g>%d</string>
+
+    <string name="order_summary_email_subject">सिर्फ जावा ऑर्डर के लिए <xliff:g id="name">%s</xliff:g></string>
+    <string name="Thank_You">धन्यवाद!!!</string>
+    <string name="Max_100_Coffee">अधिकतम सीमा तक पहुँच गया !!!</string>
+    <string name="Min_1_Coffee">न्यूनतम सीमा तक पहुँच गया !!!</string>
+
+</resources>
